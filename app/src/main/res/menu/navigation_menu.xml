@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/mHome"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Dashboard" />
+
+
+        <item
+            android:id="@+id/nav_quality"
+            android:icon="@drawable/ic_baseline_high_quality_24"
+            android:title="Quality" />
+        <item
+            android:id="@+id/genre"
+            android:icon="@drawable/ic_baseline_movie_popularity_24"
+            android:title="Genre" />
+        <item
+            android:id="@+id/sort"
+            android:icon="@drawable/ic_baseline_sort_24"
+            android:title="Sort" />
+        <item
+            android:id="@+id/favorite"
+            android:icon="@drawable/ic_baseline_favorite_24"
+            android:title="Favorite" />
+        <item
+            android:id="@+id/notification"
+            android:icon="@drawable/ic_baseline_notifications_active_24"
+            android:title="Notification" />
+
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Setting" />
+
+        <item
+            android:id="@+id/logoutId"
+            android:icon="@drawable/ic_baseline_login_24"
+            android:title="Log out" />
+
+
+    </group>
+
+</menu>

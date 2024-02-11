@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "847616336171",
+    "project_id": "moviestreaming-ce7d2",
+    "storage_bucket": "moviestreaming-ce7d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847616336171:android:0cf5f3a30386fd88fc256e",
+        "android_client_info": {
+          "package_name": "com.example.moviestream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847616336171-bv67ge1t96djs34dt7va1h8tehk26imo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6c2_-SrPz9kbjzlAe3j2RBp8_0SqPEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847616336171-bv67ge1t96djs34dt7va1h8tehk26imo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847616336171:android:64a6c6ce9bef2531fc256e",
+        "android_client_info": {
+          "package_name": "com.example.watu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847616336171-bv67ge1t96djs34dt7va1h8tehk26imo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb6c2_-SrPz9kbjzlAe3j2RBp8_0SqPEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847616336171-bv67ge1t96djs34dt7va1h8tehk26imo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
